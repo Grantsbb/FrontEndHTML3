@@ -1,0 +1,37 @@
+body {
+  background-color: #F4EBBE;
+  color: #333333
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14pt;
+  line-height: 1.6;
+  margin: 0;
+)
+h1{
+  font-size: 2rem;
+  color: #333333;
+  margin: 0;
+}
+nav{
+  background-color: #8BA6A9;
+  padding: 1rem;
+}
+  nav a {
+  color: #FFFFFF;
+  margin-right: 20px;
+  }
+  nav a:hover {
+  background-color: #75704E;
+  }
+  nav a:visited{
+    color: #CACC90;
+  }
+
+section{
+  backgoround-color: #CACC90;
+  padding: 2rem;
+}
+img {
+  border: 2px solid #8BA6A9
+  margin: 10px;
+}
+  
